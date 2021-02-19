@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1531615826 source:c:\users\w7\desktop\dasda\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"FuncionesGraficas.h"
+	"Opciones.h"
+	"Productos.h"
+	"Tortas.h"
+	"Clientes.h"
+	"Pedidos.h"
+	"Ventas.h"
+	"Menus.h"
+
+1523184258 c:\users\w7\desktop\dasda\opciones.h
+
+1531616040 c:\users\w7\desktop\dasda\productos.h
+
+1531094670 c:\users\w7\desktop\dasda\tortas.h
+
+1531079482 c:\users\w7\desktop\dasda\clientes.h
+
+1531087182 c:\users\w7\desktop\dasda\pedidos.h
+
+1531086750 c:\users\w7\desktop\dasda\ventas.h
+
+1531289627 c:\users\w7\desktop\dasda\menus.h
+
+1498793814 c:\users\w7\desktop\dasda\funcionesgraficas.h
+	<windows.h>
+
+1531953694 source:e:\facultad\dasda\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"FuncionesGraficas.h"
+	"Opciones.h"
+	"Productos.h"
+	"Tortas.h"
+	"Clientes.h"
+	"Pedidos.h"
+	"Ventas.h"
+	"Menus.h"
+
+1498793814 e:\facultad\dasda\funcionesgraficas.h
+	<windows.h>
+
+1523184258 e:\facultad\dasda\opciones.h
+
+1531936760 e:\facultad\dasda\productos.h
+
+1531956241 e:\facultad\dasda\tortas.h
+
+1531944010 e:\facultad\dasda\clientes.h
+
+1531957313 e:\facultad\dasda\pedidos.h
+
+1531959376 e:\facultad\dasda\ventas.h
+
+1531956727 e:\facultad\dasda\menus.h
+
+1531289350 source:c:\users\w10\desktop\dasda\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"FuncionesGraficas.h"
+	"Opciones.h"
+	"Productos.h"
+	"Tortas.h"
+	"Clientes.h"
+	"Pedidos.h"
+	"Ventas.h"
+	"Menus.h"
+
+1498793814 c:\users\w10\desktop\dasda\funcionesgraficas.h
+	<windows.h>
+
+1523184258 c:\users\w10\desktop\dasda\opciones.h
+
+1531094805 c:\users\w10\desktop\dasda\productos.h
+
+1531094670 c:\users\w10\desktop\dasda\tortas.h
+
+1531079482 c:\users\w10\desktop\dasda\clientes.h
+
+1531087182 c:\users\w10\desktop\dasda\pedidos.h
+
+1531086750 c:\users\w10\desktop\dasda\ventas.h
+
+1531289627 c:\users\w10\desktop\dasda\menus.h
+
+1531282152 c:\users\w10\desktop\dasda\main2.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	"recurso.h"
+
+1529473459 c:\users\w10\desktop\dasda\recurso.h
+
+1531774723 source:e:\facultad\dasda\icono.rc
+

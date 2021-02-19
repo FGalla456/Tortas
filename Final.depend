@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1531774723 source:e:\facultad\final\icono.rc
+
+1531961946 source:e:\facultad\final\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"FuncionesGraficas.h"
+	"Opciones.h"
+	"Productos.h"
+	"Tortas.h"
+	"Clientes.h"
+	"Pedidos.h"
+	"Ventas.h"
+	"Menus.h"
+
+1498793814 e:\facultad\final\funcionesgraficas.h
+	<windows.h>
+
+1523184258 e:\facultad\final\opciones.h
+
+1531936760 e:\facultad\final\productos.h
+
+1531956241 e:\facultad\final\tortas.h
+
+1531944010 e:\facultad\final\clientes.h
+
+1531957313 e:\facultad\final\pedidos.h
+
+1531959376 e:\facultad\final\ventas.h
+
+1531959792 e:\facultad\final\menus.h
+
+1531774723 source:c:\users\administrador\desktop\final\icono.rc
+
+1532009873 source:c:\users\administrador\desktop\final\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"Graficas.h"
+	"Funciones.h"
+	"Productos.h"
+	"Tortas.h"
+	"Clientes.h"
+	"Pedidos.h"
+	"Ventas.h"
+	"Opciones.h"
+	"Menus.h"
+
+1498793814 c:\users\administrador\desktop\final\funcionesgraficas.h
+	<windows.h>
+
+1532001442 c:\users\administrador\desktop\final\opciones.h
+
+1532008267 c:\users\administrador\desktop\final\productos.h
+
+1532011862 c:\users\administrador\desktop\final\tortas.h
+
+1532006064 c:\users\administrador\desktop\final\clientes.h
+
+1532010008 c:\users\administrador\desktop\final\pedidos.h
+
+1532010275 c:\users\administrador\desktop\final\ventas.h
+
+1532010164 c:\users\administrador\desktop\final\menus.h
+
+1498793814 c:\users\administrador\desktop\final\graficas.h
+	<windows.h>
+
+1532005622 c:\users\administrador\desktop\final\funciones.h
+
+1531774723 source:e:\facultad\final v2\icono.rc
+
+1532568889 source:e:\facultad\final v2\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"Graficas.h"
+	"Funciones.h"
+	"Productos.h"
+	"Ingredientes_x_Torta.h"
+	"Tortas.h"
+	"Clientes.h"
+	"Tortas_x_Pedido.h"
+	"Pedidos.h"
+	"Ventas.h"
+	"Opciones.h"
+	"Menus.h"
+
+1498793814 e:\facultad\final v2\graficas.h
+	<windows.h>
+
+1532005622 e:\facultad\final v2\funciones.h
+
+1532446443 e:\facultad\final v2\productos.h
+
+1532569887 e:\facultad\final v2\tortas.h
+
+1532119421 e:\facultad\final v2\clientes.h
+
+1532566593 e:\facultad\final v2\pedidos.h
+
+1532255978 e:\facultad\final v2\ventas.h
+
+1532001442 e:\facultad\final v2\opciones.h
+
+1532255756 e:\facultad\final v2\menus.h
+
+1532568889 e:\facultad\final v2\ingredientes_x_torta.h
+
+1532568898 e:\facultad\final v2\tortas_x_pedido.h
+
